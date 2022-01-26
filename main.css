@@ -1,0 +1,207 @@
+.background{
+    background-repeat: no-repeat;
+}
+.container{
+    width: 1350px;
+    height: 772px;
+    background-color: rgba(255, 123, 0, 0.342);
+}
+.container-small, .container-medium-1, .container-medium-2, .container-medium-3{
+    padding: 20px;
+    color: rgb(253, 246, 232);
+}
+.container-smaller-1{
+    margin: 0 200px 0 60px;
+    font-weight: bold;
+}
+.container-smaller-2{
+    margin: 0 0 0 250px;
+}
+.container-smaller-3, .container-smaller-4, .container-smaller-5, .container-smaller-6{
+    margin: 0 0 0 55px;
+}
+.container-smaller-1, .container-smaller-2, .container-smaller-3, .container-smaller-4, .container-smaller-5, .container-smaller-6{
+    float: left;
+}
+.container-medium-1{
+    margin: 150px 0 0 0;
+    font-weight: bold;
+    font-size: xx-large;
+}
+.container-medium-3{
+    margin: 200px 0 0 0;
+    text-decoration: underline;
+}
+
+.about, .skills, .portfolio, .touch{
+    width: 1340px;
+}
+
+.about, .portfolio{
+    background-color: rgb(250, 234, 203);
+}
+.skills, .touch{
+    background-color: rgb(250, 231, 233);
+}
+.about{
+    height: 545px;
+    margin: -5px 0 0 0;
+}
+.skills{
+    height: 690px;
+}
+.portfolio{
+    height: 820px;
+}
+.touch{
+    height: 530px;
+}
+
+.image-1{
+    margin: -75px 0 0 0;
+}
+
+.navbar-brand{
+    margin: 30px 0 -50px 20px;
+}
+.navbar-collapse{
+    margin: 0 0 0 100px;
+}
+.nav-item{
+    margin: 30px 25px -50px 0;
+}
+.left{
+    margin: 0 0 0 100px;
+}
+
+.about, .skills, .portfolio{
+    padding: 100px;
+}
+.text-1, .text-2, .text-3, .portfolio-1, .portfolio-2, .portfolio-3{
+    margin: 0 0 50px 50px;
+}
+.text-1, .container-1, .text-4{
+    font-weight: bold;
+}
+.text-4{
+    margin: 0 0 50px 100px;
+}
+
+.touch{
+   padding: 5px;
+}
+.container-1{
+    margin: 50px 0 0 50px;
+}
+.container-1{
+  padding: 15px;
+}
+.contact, .skills-1{
+    float: left;
+}
+.container-2, .container-3, .container-4{
+    width: 100px;
+    margin: 30px 60px 0 60px;
+}
+
+.image-2{
+    margin: 70px 0 50px 100px;
+    float: left;
+}
+
+.profile{
+    width: 250px;
+    height: 250px;
+    margin: -65px 105px 0 0;
+}
+
+.box-1{
+    margin: 0 75px 0 45px;
+}
+.box-3, .box-4, .box-5, .box-6, .box-7, .box-8, .box-9, .box-10, .box-11, .box-12, .box-13, .box-14{
+    float: left;
+}
+.box-1, .box-3, .box-4, .box-5, .box-7, .box-8, .box-9, .box-11, .box-12, .box-13, .portfolio-1, .portfolio-2{
+    font-weight: bold;
+}
+.box-big{ 
+    width: 480px;
+    float: left;
+    margin: 45px 0 0 45px;
+}
+
+.first, .second, .third{
+    width: 300px;
+    height: 20px;
+}
+
+.box-2{
+    margin: 0 0 0 15px;
+}
+.box-4{
+    margin: 0 30px 10px 50px;
+}
+.box-6{
+    margin: 0 30px 10px 102px;
+    width: 300px;
+}
+.box-8{
+    margin: 0 20px 0 70px;
+} 
+.box-9, .box-11, .box-13{
+    margin-top: 10px;
+}
+.box-10{
+    margin: 10px 22px 0 102px;
+}
+.box-12{
+    margin: 10px 19px 0 38px;
+}
+.box-14{
+    margin: 10px 0 0 105px;
+}
+
+.portfolio-3{
+    width: 450px;
+    height: 200px;
+}
+
+.portfolio-3, .picture-1{
+    float: left;
+}
+
+.first-1, .second-1{
+    width: 300px;
+    height: 145px;
+    margin: 0 0 0 45px;
+}
+.second-1{
+    margin-top: 20px;
+}
+.third-1, .fourth-1{
+    width: 100px;
+    height: 100px;
+    margin: 0 0 0 20px;
+}
+.third-1{
+    width: 235px;
+    height: 185px;
+}
+.fourth-1{
+    margin-top: 20px;
+    width: 235px;
+    height: 105px;
+}
+
+.icon{
+    margin: 125px 0 0 50px;
+}
+.fa-angle-left, .fa-angle-right{
+    margin: 0 20px 0 0;
+    font-size: x-large;
+   font-weight: 200;
+}
+
+.color{
+    background-color: rgb(245, 7, 38);
+}
